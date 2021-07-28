@@ -12,7 +12,7 @@ screen_size = (900 ,600)
 screen = pygame.display.set_mode(screen_size)
 running = True
 clock = pygame.time.Clock()
-fps = 240
+fps = 300
 
 pygame.display.set_caption('Space Invaders')
 icon = pygame.image.load('Images/logo.png')
